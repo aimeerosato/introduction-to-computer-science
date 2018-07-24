@@ -12,4 +12,4 @@ This could be answered in many ways:
 
 And this is just the beginning.  
 
-After taking few minutes to think who you are, write down a few.  We will be using who you are to write a Snap self expression program.
+After taking few minutes to think who you are, write down a few statements about yourself.  We will be using this brainstorm to write a Snap self expression program.
