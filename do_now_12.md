@@ -11,10 +11,10 @@ Define the following terms.  You may use the internet.
 
 **Choice 2: Fill in the chart**
 
-|Phrase|Definiton|Image to help you remember
+| Phrase | Definition | Image to help you remember
 |---|---|---|
-|tracing through code|   |   |
-|debugging|   |   |
+| tracing through code | | |
+|debugging | | |
 
 
 
